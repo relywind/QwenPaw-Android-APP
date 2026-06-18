@@ -21,8 +21,8 @@
 
 | | | | |
 |---|---|---|---|
-<img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/1.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/2.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/3.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/4.jpg' width='170'/> |
-<img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/5.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/6.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/7.jpg' width='170'/> | |
+<img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_1.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_2.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_3.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_4.jpg' width='170'/> |
+<img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_5.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_6.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_7.jpg' width='170'/> | |
 
 </div>
 
