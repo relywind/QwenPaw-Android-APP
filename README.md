@@ -14,3 +14,16 @@
 - 会话管理
 
 前往 Release 页下载 APK
+
+## 📸 截图预览
+
+<div align="center">
+
+| | | | |
+|---|---|---|---|
+<img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/1.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/2.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/3.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/4.jpg' width='170'/> |
+<img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/5.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/6.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/relywind/QwenPaw-Android-APP/main/screenshots/7.jpg' width='170'/> | |
+
+</div>
+
+
